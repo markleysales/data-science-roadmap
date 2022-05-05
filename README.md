@@ -9,4 +9,9 @@
 </div>
 <br>
 <div align="center"><i>A basic to advanced ordering for data science students and professionals.</i></div>
-<hr>
+<hr> <!-- Header -->
+
+
+<p>The roadmap to Data Science is an ordering (with comments, summaries and analyses) from basic to advanced for students and professionals. Our proposal is to help you as much as possible on this data and technology journey.</p>
+
+>This repository is free to the community.
