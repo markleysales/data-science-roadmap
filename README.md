@@ -8,7 +8,7 @@
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23F8BF61&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </div>
 <br>
-<div align="center"><i>A basic to advanced ordering for data science students and professionals.</i></div>
+<p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
 <hr> <!-- Header -->
 
 
