@@ -23,12 +23,12 @@
 </div>
 <br>
 <p align="center"><sub>Special thanks to:</sub><br>
-   <sup><b><a href="https://github.com/thiagoCorreaOriginal">Thiago Corrêa</a>,
+   <sup><a href="https://github.com/thiagoCorreaOriginal">Thiago Corrêa</a>,
    <a href="https://github.com/yankaled">Yan Kaled</a>,
    <a href="https://github.com/lucastrindadebarra">Lucas Barra</a>
    &
    <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
-</b></sup></p>
+</sup></p>
 <sup><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg"></sup> 
 <!-- Header -->
 
