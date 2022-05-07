@@ -11,6 +11,7 @@
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23003140&title_bg=%23003140&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </div>
 <br>
+<p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
 <div align="center">
    <img align="center" width="300px" src="https://user-images.githubusercontent.com/95272518/167251324-0395c515-d81e-4d62-8c06-465687611a29.svg">
    <br>
@@ -28,7 +29,6 @@
    &
    <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
 </b></sup></p>
-<p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
 <sup><img width="100%" src="https://user-images.githubusercontent.com/95272518/167251824-da56464d-6c3c-45f7-b9c3-b11788a20049.svg"></sup> 
 <!-- Header -->
 
