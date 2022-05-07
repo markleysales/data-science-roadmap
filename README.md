@@ -26,7 +26,8 @@
    <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
 </b></sup></p>
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
-<img src="https://user-images.githubusercontent.com/95272518/167251741-3a223840-8765-4bba-8847-c56d26347e2f.svg"> <!-- Header -->
+<sup><img width="100%" src="https://user-images.githubusercontent.com/95272518/167251824-da56464d-6c3c-45f7-b9c3-b11788a20049.svg"></sup> 
+<!-- Header -->
 
 
 <p>The "Roadmap to Data Science" is an ordering (with comments, summaries and analyses) from basic to advanced for students and professionals. Our proposal is to help you as much as possible on this data and technology journey.</p>
