@@ -8,6 +8,11 @@
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23003140&title_bg=%23003140&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </div>
 <br>
+<p align="center"><sup><b>Special thanks to:<br>
+   <a href="https://github.com/thiagoCorreaOriginal">Thiago Corrêa</a>
+   &
+   <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
+</b></sup></p>
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
 <hr> <!-- Header -->
 
