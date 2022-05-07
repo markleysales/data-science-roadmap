@@ -19,7 +19,7 @@
 >I am not open to partnerships or monetization of this content, everything is purely academic.
 
 
-<h1>sᴜᴍᴍᴀʀʏ</h1>
+<h2>sᴜᴍᴍᴀʀʏ</h2>
 <div align="center">
    <p>
       <a href="">Introduction</a>
@@ -32,9 +32,6 @@
       |
       <a href="">Tables</a>
       |
-      <a href="ɪɴᴛᴇʀᴍᴇᴅɪᴀʀʏ">Intermediary</>
+      <a href="#ɪɴᴛᴇʀᴍᴇᴅɪᴀʀʏ">Intermediary</>
    </p>
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<h1>ɪɴᴛᴇʀᴍᴇᴅɪᴀʀʏ</h1>
