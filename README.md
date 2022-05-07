@@ -15,7 +15,7 @@
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
    <br>
-   <sub>development, data architecture, microservices and graphic design.</sub></b></a>
+   <sup>development, data architecture, microservices and graphic design.</sup></b></a>
 </div>
 <br>
 <p align="center"><sup>Special thanks to:<br>
