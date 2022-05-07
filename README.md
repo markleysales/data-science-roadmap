@@ -11,11 +11,11 @@
 <div align="center">
    <img align="center" width="300px" src="https://user-images.githubusercontent.com/95272518/167250949-8a7c177f-1246-48b9-8196-c3e2ada17988.svg">
    <br>
-   <a href="https://github.com/markleysales"><b>Live the future</b>
+   <a href="https://github.com/markleysales"><b>Live the future
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
    <br>
-   <sub>development, data architecture, microservices and graphic design.</sub></a>
+   <sub>development, data architecture, microservices and graphic design.</sub></b></a>
 </div>
 <br>
 <p align="center"><sup>Special thanks to:<br>
