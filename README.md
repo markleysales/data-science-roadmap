@@ -19,7 +19,7 @@
 >I am not open to partnerships or monetization of this content, everything is purely academic.
 
 
-<h2>sᴜᴍᴍᴀʀʏ</h2>
+<h1>sᴜᴍᴍᴀʀʏ</h1>
 <div align="center">
    <p>
       <a href="">Introduction</a>
