@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-   <img align="center" width="300px" src="https://user-images.githubusercontent.com/95272518/167250949-8a7c177f-1246-48b9-8196-c3e2ada17988.svg">
+   <img align="center" width="400px" src="https://user-images.githubusercontent.com/95272518/167250949-8a7c177f-1246-48b9-8196-c3e2ada17988.svg">
    <br>
    <a href="https://github.com/markleysales"><b>Live the future
    <br>
