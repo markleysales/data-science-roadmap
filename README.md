@@ -8,6 +8,16 @@
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23003140&title_bg=%23003140&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </div>
 <br>
+<div align="center">
+   <img align="center" width="300px" src="https://user-images.githubusercontent.com/95272518/167250949-8a7c177f-1246-48b9-8196-c3e2ada17988.svg">
+   <br>
+   <a href="https://github.com/markleysales"><b>Live the future</b>
+   <br>
+   <sub>Professional and academic in agile technologies for software</sub>
+   <br>
+   <sub>development, data architecture, microservices and graphic design.</sub></a>
+</div>
+<br>
 <p align="center"><sup>Special thanks to:<br>
    <b><a href="https://github.com/thiagoCorreaOriginal">Thiago Corrêa</a>,
    <a href="https://github.com/yankaled">Yan Kaled</a>,
