@@ -16,4 +16,25 @@
 
 >NOTES:<br>
 >This repository is free for the community to change, my initial idea was to make a trail according to my own studies. Therefore, nothing prevents me from doing the same and, thus, improving what I created.<br>
->I am not open to partnerships or monetization of this content.
+>I am not open to partnerships or monetization of this content, everything is purely academic.
+
+
+<h1>sᴜᴍᴍᴀʀʏ</h1>
+<div align="center">
+   <p>
+      <a href="">Introduction</a>
+      | 
+      <a href="">Starting</a>
+      |
+      <a href="">Beginner</a>
+      |
+      <a href="">Algorithm</a>
+      |
+      <a href="">Tables</a>
+      |
+      <a href="ɪɴᴛᴇʀᴍᴇᴅɪᴀʀʏ">Intermediary</>
+   </p>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h1>ɪɴᴛᴇʀᴍᴇᴅɪᴀʀʏ</h1>
