@@ -15,7 +15,7 @@
 <p>The "Roadmap to Data Science" is an ordering (with comments, summaries and analyses) from basic to advanced for students and professionals. Our proposal is to help you as much as possible on this data and technology journey.</p>
 
 >NOTES:<br>
->This repository is free for the community to change, my initial idea was to make a trail according to my own studies. Therefore, nothing prevents me from doing the same and, thus, improving what I created.<br>
+>`This repository is free for the community` to change, my initial idea was to make a trail according to my own studies. Therefore, nothing prevents me from doing the same and, thus, improving what I created.<br>
 >I am not open to partnerships or monetization of this content, everything is purely academic.
 
 
@@ -32,6 +32,6 @@
       |
       <a href="">Tables</a>
       |
-      <a href="#ɪɴᴛᴇʀᴍᴇᴅɪᴀʀʏ">Intermediary</>
+      <a href="">Intermediary<a/>
    </p>
 </div>
