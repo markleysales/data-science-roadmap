@@ -9,7 +9,9 @@
 </div>
 <br>
 <p align="center"><sup>Special thanks to:<br>
-   <b><a href="https://github.com/thiagoCorreaOriginal">Thiago Corrêa</a>
+   <b><a href="https://github.com/thiagoCorreaOriginal">Thiago Corrêa</a>,
+   <a href="https://github.com/yankaled">Yan Kaled</a>,
+   <a href="https://github.com/lucastrindadebarra">Lucas Barra</a>
    &
    <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
 </b></sup></p>
