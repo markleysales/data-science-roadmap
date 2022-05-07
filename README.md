@@ -2,10 +2,10 @@
 <br>
 <div id="badges" align="center">
    <a href="https://www.instagram.com/mark_sales.it/">
-      <img height="20px" src="https://img.shields.io/badge/mark__sales.it-E4405F?style=flat&logo=instagram&logoColor=white&color=89906F">
+      <img height="20px" src="https://img.shields.io/badge/mark__sales.it-E4405F?style=flat&logo=instagram&logoColor=white&color=003140&labelColor=003140">
    </a>
-   <img src="https://img.shields.io/github/last-commit/markleysales/data-science-roadmap?color=3BCBF7&label=Last%20commit&labelColor=555555">
-   <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23F8BF61&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
+   <img src="https://img.shields.io/github/last-commit/markleysales/data-science-roadmap?color=003140&label=Last%20commit&labelColor=003140">
+   <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23003140&title_bg=%23003140&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </div>
 <br>
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
@@ -22,16 +22,15 @@
 <h1>sᴜᴍᴍᴀʀʏ</h1>
 <div align="center">
    <p>
-      <a href="">Introduction</a>
-      | 
-      <a href="">Starting</a>
+      <a href=""><b>Introduction</b></a>
+      <a href=""><b>Starting</b></a>
       |
-      <a href="">Beginner</a>
+      <a href=""><b>Beginner</b></a>
       |
-      <a href="">Algorithm</a>
+      <a href=""><b>Algorithm</b></a>
       |
-      <a href="">Tables</a>
+      <a href=""><b>Tables</b></a>
       |
-      <a href="">Intermediary<a/>
+      <a href=""><b>Intermediary</b></b>
    </p>
 </div>
