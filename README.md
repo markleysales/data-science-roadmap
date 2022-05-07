@@ -29,7 +29,7 @@
    <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
 </b></sup></p>
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
-<sup><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252688-ed7cf077-48a7-41e8-b6d9-541eacf5f947.svg"></sup> 
+<sup><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg"></sup> 
 <!-- Header -->
 
 
