@@ -39,19 +39,22 @@
 >`This repository is free for the community` to change, my initial idea was to make a trail according to my own studies. Therefore, nothing prevents me from doing the same and, thus, improving what I created.<br>
 >I am not open to partnerships or monetization of this content, everything is purely academic.
 
+<!-- Introduction -->
+
 
 <h1>sᴜᴍᴍᴀʀʏ</h1>
 <div align="center">
    <p>
       <a href=""><b>Introduction</b></a>
+      -
       <a href=""><b>Starting</b></a>
-      |
+      -
       <a href=""><b>Beginner</b></a>
-      |
+      -
       <a href=""><b>Algorithm</b></a>
-      |
+      -
       <a href=""><b>Tables</b></a>
-      |
+      -
       <a href=""><b>Intermediary</b></b>
    </p>
 </div>
