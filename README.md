@@ -1,7 +1,7 @@
 <div id="bg" align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/167252390-f2858d87-0d0c-486d-a5c9-b91a30601893.svg"></div>
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
 <br>
-<div id="badges" align="center">
+<div id="badges" align="center"><sup>
    <a href="https://www.instagram.com/mark_sales.it/">
       <img height="20px" src="https://img.shields.io/badge/mark__sales.it-E4405F?style=flat&logo=instagram&logoColor=white&color=003140&labelColor=003140">
    </a>
@@ -10,7 +10,7 @@
    </a>
    <img src="https://img.shields.io/github/last-commit/markleysales/data-science-roadmap?color=003140&label=Last%20commit&labelColor=003140">
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23003140&title_bg=%23003140&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
-</div>
+</sup></div>
 <br>
 <div align="center">
    <img align="center" width="300px" src="https://user-images.githubusercontent.com/95272518/167251324-0395c515-d81e-4d62-8c06-465687611a29.svg">
