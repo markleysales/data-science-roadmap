@@ -52,10 +52,6 @@
       -
       <a href=""><b>Beginner</b></a>
       -
-      <a href=""><b>Algorithm</b></a>
-      -
-      <a href=""><b>Tables</b></a>
-      -
       <a href=""><b>Intermediary</b></b>
    </p>
 </div>
