@@ -48,10 +48,10 @@
    <p>
       <a href=""><b>Introduction</b></a>
       -
-      <a href=""><b>Starting</b></a>
-      -
       <a href=""><b>Beginner</b></a>
       -
-      <a href=""><b>Intermediary</b></b>
+      <a href=""><b>Intermediary</b></a>
+      -
+      <a href=""><b>Advanced</b></b>
    </p>
 </div>
