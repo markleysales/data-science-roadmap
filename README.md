@@ -84,6 +84,7 @@
 <br>
 <div>
    <h2 id="python">Python</h2>
+   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168478295-0089dcd8-58ca-48a9-a574-f03959b06c0a.svg"></div>
    <h3>Why Python?</h3>
    <p>
       <b>Large Community</b> – With Python, you can find a large (and growing) community. At the end of the day, if you get lost, you can count on a large community of          experts to help you find a suitable solution for coding (even in specific niches) as well as answers to questions related to Data Science and Data Analytics.
