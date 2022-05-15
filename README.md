@@ -57,6 +57,7 @@
 </div>
 
 
+<br>
 <div>
    <h2 id="intro">Introduction</h2>
    <h3>What is Data Science?</h3>
@@ -70,18 +71,20 @@
    <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
    <!-- 1200x565 px -->
    <br>
-    <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
+   <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
-<br>
 <div>
    <h3>What is the profile of a Data Science professional?</h3>
    <p>Working with Data Science involves calculations, statistics and algorithms. In other words, having an affinity with the exact sciences is essential for the             profession.
       <br><br>
       In addition, data scientists must have strategic and analytical thinking to extract data and transform it into relevant information for the companies in which         they work.
    </p>
-   <br>
-   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168459248-87550689-522c-4cd9-856b-1bf55f63d1e6.jpg"></div>
-   <br>
-   <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
+</div>
+
+
+<br>
+<div>
+   <h2>Python</h2>
+   <h3>Why Python?</h3>
 </div>
 
