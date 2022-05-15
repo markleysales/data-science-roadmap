@@ -62,7 +62,6 @@
    <h3>What is Data Science?</h3>
    <p>
       Data science is an interdisciplinary field that uses a variety of tools and algorithms to <b>identify patterns</b> and insights from raw data.
-      <br>
       Economic, financial and social data, structured and unstructured, can be extracted and transformed into knowledge in order to detect patterns that will help           companies.
       <br><br>
       Data Science allows you to identify trends and <b>produce information</b> that companies can use to make better decisions and create more innovative products and       services.
