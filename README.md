@@ -66,11 +66,10 @@
       <br><br>
       This science makes it possible to <b>identify trends</b> and produce information that companies can use to make <b>better decisions</b> and create more                 innovative products and services.
    </p>
-   <div align="right">
-      <sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup>
-   </div>
    <br>
    <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
+   <br>
+    <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
 <br>
 <div>
@@ -79,5 +78,9 @@
       <br><br>
       In addition, data scientists must have strategic and analytical thinking to extract data and transform it into relevant information for the companies in which         they work.
    </p>
+   <br>
+   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458824-42a9a403-2478-4939-b99d-75d9bba21281.jpg"></div>
+   <br>
+   <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
 
