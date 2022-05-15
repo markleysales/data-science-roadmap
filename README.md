@@ -68,6 +68,7 @@
    </p>
    <br>
    <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
+   <!-- 1200x565 px -->
    <br>
     <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
@@ -79,7 +80,7 @@
       In addition, data scientists must have strategic and analytical thinking to extract data and transform it into relevant information for the companies in which         they work.
    </p>
    <br>
-   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458824-42a9a403-2478-4939-b99d-75d9bba21281.jpg"></div>
+   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168459248-87550689-522c-4cd9-856b-1bf55f63d1e6.jpg"></div>
    <br>
    <div align="right"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
