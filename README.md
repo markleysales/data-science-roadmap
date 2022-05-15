@@ -70,5 +70,5 @@
       <sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup>
    </div>
    <br>
-   <div align="center"><img width="60%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
+   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
 </div>
