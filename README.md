@@ -48,7 +48,7 @@
    <p>
       <a href="#intro"><b>Introduction</b></a>
       -
-      <a href=""><b>Beginner</b></a>
+      <a href="#python"><b>Python</b></a>
       -
       <a href=""><b>Intermediary</b></a>
       -
@@ -84,7 +84,7 @@
 
 <br>
 <div>
-   <h2>Python</h2>
+   <h2 id="python">Python</h2>
    <h3>Why Python?</h3>
 </div>
 
