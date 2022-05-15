@@ -72,3 +72,12 @@
    <br>
    <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
 </div>
+<br>
+<div>
+   <h3>What is the profile of a Data Science professional?</h3>
+   <p>Working with Data Science involves calculations, statistics and algorithms. In other words, having an affinity with the exact sciences is essential for the             profession.
+      <br><br>
+      In addition, data scientists must have strategic and analytical thinking to extract data and transform it into relevant information for the companies in which         they work.
+   </p>
+</div>
+
