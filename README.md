@@ -43,10 +43,10 @@
 <!-- Introduction -->
 
 
-<h1>sᴜᴍᴍᴀʀʏ</h1>
+<h1>Summary</h1>
 <div align="center">
    <p>
-      <a href=""><b>Introduction</b></a>
+      <a href="#intro"><b>Introduction</b></a>
       -
       <a href=""><b>Beginner</b></a>
       -
@@ -58,15 +58,17 @@
 
 
 <div>
-   <h2>Introduction</h2>
+   <h2 id="intro">Introduction</h2>
    <h3>What is Data Science?</h3>
    <p>
       Data science is an interdisciplinary field that uses a variety of tools and algorithms to <b>identify patterns</b> and insights from raw data.
       Economic, financial and social data, structured and unstructured, can be extracted and transformed into knowledge in order to detect patterns that will help           companies.
       <br><br>
-      Data Science allows you to identify trends and <b>produce information</b> that companies can use to make better decisions and create more innovative products and       services.
+      This science makes it possible to <b>identify trends</b> and produce information that companies can use to make <b>better decisions</b> and create more                 innovative products and services.
    </p>
    <div align="right">
       <sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup>
    </div>
+   <br>
+   <div align="center"><img width="600px" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
 </div>
