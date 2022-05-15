@@ -86,5 +86,18 @@
 <div>
    <h2 id="python">Python</h2>
    <h3>Why Python?</h3>
+   <p>
+      <b>Large Community</b> – With Python, you can find a large (and growing) community. At the end of the day, if you get lost, you can count on a large community of          experts to help you find a suitable solution for coding (even in specific niches) as well as answers to questions related to Data Science and Data Analytics.
+      <br><br>
+      <b>Growing number of data analysis libraries</b> – With Python, you can find a wide variety of data science libraries (e.g. NumPy, SciPy, StatsModels, scikit-            learn, pandas, etc.) that are growing exponentially. Constraints (on optimization methods/functions) that were missing a year ago are no longer an issue and            you can find a suitable robust solution that works reliably.
+      <br><br>
+      <b>Juypyter-Notebook</b> – this is simply a great tool. You can run multiple lines/blocks of code in different cells, you can play with the data, move it up or d          own and you can even get your results right below the cell. It really is like a magical organizer that Data Scientists (and people who run code) have always            dreamed of. You can also write in R, SQL, Scala, and other languages ​​with Jupyter-Notebook which makes the workflow much easier and more efficient.
+      <br><br>
+      <b>Python is easy to learn</b> – Python's main advantage is that anyone can learn it quickly and easily. The language was designed to be simple.
+      <br><br>
+      <b>Scalability</b> – Relative to other languages/packages for Data Science (like MatLab, Stata, R) Python is much faster. It is true that Java and Scala are much          faster than Python, but with Anaconda (Continuum Analytics) Python may be the right solution.
+      <br><br>
+      <b>Visualization/Graphics</b> – Python isn't as good as R (yet), but we'll see more and more APIs (eg Plotly) and data visualization libraries that make R's              partial advantage negligible compared to Python. You can do really cool stuff with Python.
+   </p>
 </div>
 
