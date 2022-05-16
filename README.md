@@ -50,9 +50,13 @@
       -
       <a href="#python"><b>Python</b></a>
       -
-      <a href=""><b>Intermediary</b></a>
+      <a href=""><b>Datas</b></a>
       -
-      <a href=""><b>Advanced</b></b>
+      <a href=""><b>Culture</b></a>
+      -
+      <a href=""><b>Scientific Methodologies</b></a>
+      -
+      <a href=""><b>Scrum</b></a>
    </p>
 </div>
 
