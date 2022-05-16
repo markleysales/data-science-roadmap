@@ -57,6 +57,20 @@
       <a href=""><b>Scientific Methodologies</b></a>
       -
       <a href=""><b>Scrum</b></a>
+      -
+      <a href=""><b>CRISP-DM</b></a>
+      <br>
+      <a href=""><b>NumPy</b></a>
+      -
+      <a href=""><b>pandas</b></a>
+      -
+      <a href=""><b>Matplotlib</b></a>
+      -
+      <a href=""><b>Seaborn</b></a>
+      -
+      <a href=""><b>Package installation</b></a>
+      -
+      <a href=""><b>Git</b></a>
    </p>
 </div>
 
