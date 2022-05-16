@@ -68,7 +68,7 @@
       This science makes it possible to <b>identify trends</b> and produce information that companies can use to make <b>better decisions</b> and create more                 innovative products and services.
    </p>
    <br>
-   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168458428-68dbbf8c-610e-4cbe-b64a-4b4d0b22dada.jpg"></div>
+   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168683911-9ed657fa-0260-43b8-8f8e-d90a41fe9f03.jpg"></div>
    <!-- 1200x565 px -->
    <div align="center"><sup>source: https://ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
@@ -84,7 +84,11 @@
 <br>
 <div>
    <h2 id="python">Python</h2>
-   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168478435-425b101f-2c5e-441d-89cd-82d0195e9c8f.svg"></div>
+   <div align="center">
+      <img width="66%" src="https://user-images.githubusercontent.com/95272518/168478435-425b101f-2c5e-441d-89cd-82d0195e9c8f.svg">
+      <br>
+      <sup>source: https://www.cienciaedados.com/por-que-cientistas-de-dados-escolhem-python</sup>
+   </div>
    <h3>Why Python?</h3>
    <p>
       <b>Large Community</b> – With Python, you can find a large (and growing) community. At the end of the day, if you get lost, you can count on a large community of          experts to help you find a suitable solution for coding (even in specific niches) as well as answers to questions related to Data Science and Data Analytics.
