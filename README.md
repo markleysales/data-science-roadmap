@@ -14,7 +14,7 @@
 </sup></div>
 <br>
 <div align="center">
-   <img align="center" width="32%px" src="https://user-images.githubusercontent.com/95272518/168686500-5dd9d49b-a445-40b7-84bd-54cae4cdf869.svg">
+   <img align="center" width="32%px" src="https://user-images.githubusercontent.com/95272518/168687229-8a19bf9f-3c9b-40b0-b424-a87e50de2d54.svg">
    <br>
    <a href="https://github.com/markleysales"><b>Live the future
    <br>
