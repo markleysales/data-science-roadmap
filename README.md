@@ -39,7 +39,7 @@
 >NOTES:<br>
 >`This repository is free for the community` to change, my initial idea was to make a trail according to my own studies. Therefore, nothing prevents me from doing the same and, thus, improving what I created.<br>
 >I am not open to partnerships or monetization of this content, everything is purely academic.<br>
->Most images are clickable and lead to links.<br>
+>Most images are clickable and lead to pages with reliable information outside the repository.<br>
 >At the end of each topic/subject there will be a `link` to go back to the table of contents (to streamline browsing time).
 
 <!-- Introduction -->
