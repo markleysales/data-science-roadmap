@@ -80,7 +80,7 @@
    <h2 id="intro">Introduction</h2>
    <br>
     <div align="center">
-      <img width="66%" src="https://user-images.githubusercontent.com/95272518/168738029-ecbc5443-86d5-4a10-981f-0b6108928381.jpg">
+      <img width="66%" src="https://user-images.githubusercontent.com/95272518/168738312-eb2301aa-c746-4825-be92-d40f28d3c426.jpg">
       <!-- 1200x565 px -->
       <br>
       <sup>source: ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup>
