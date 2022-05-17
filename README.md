@@ -78,6 +78,13 @@
 <br>
 <div>
    <h2 id="intro">Introduction</h2>
+   <br>
+    <div align="center">
+      <img width="66%" src="https://user-images.githubusercontent.com/95272518/168738029-ecbc5443-86d5-4a10-981f-0b6108928381.jpg">
+      <!-- 1200x565 px -->
+      <br>
+      <sup>source: ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup>
+   </div>
    <h3>What is Data Science?</h3>
    <p>
       Data science is an interdisciplinary field that uses a variety of tools and algorithms to <b>identify patterns</b> and insights from raw data.
@@ -86,11 +93,9 @@
       This science makes it possible to <b>identify trends</b> and produce information that companies can use to make <b>better decisions</b> and create more                 innovative products and services.
    </p>
    <br>
-   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168683911-9ed657fa-0260-43b8-8f8e-d90a41fe9f03.jpg"></div>
-   <!-- 1200x565 px -->
-   <div align="center"><sup>source: ead.pucpr.br/blog/ciencia-de-dados-o-que-e</sup></div>
 </div>
 <div>
+   <div align="center"><img width="66%" src="https://user-images.githubusercontent.com/95272518/168683911-9ed657fa-0260-43b8-8f8e-d90a41fe9f03.jpg"></div>
    <h3>What is the profile of a Data Science professional?</h3>
    <p>Working with Data Science involves calculations, statistics and algorithms. In other words, having an affinity with the exact sciences is essential for the             profession.
       <br><br>
