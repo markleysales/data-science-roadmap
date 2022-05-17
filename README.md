@@ -108,7 +108,9 @@
 <div>
    <h2 id="python">Python</h2>
    <div align="center">
-      <img width="66%" src="https://user-images.githubusercontent.com/95272518/168478435-425b101f-2c5e-441d-89cd-82d0195e9c8f.svg">
+      <a href="https://www.python.org/">
+         <img width="66%" src="https://user-images.githubusercontent.com/95272518/168478435-425b101f-2c5e-441d-89cd-82d0195e9c8f.svg">
+      </a>
       <br>
       <sup>source: cienciaedados.com/por-que-cientistas-de-dados-escolhem-python</sup>
    </div>
