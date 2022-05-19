@@ -134,5 +134,5 @@ Here you will find the best "chronology" to follow on your study journey.</p>
    <br>
    <h3>Variables</h3>
 </div>
-<a href="top"><p align="right"><sub>◄ Back to the top</sub></p></a>
+<a href="#top"><p align="right"><sub>◄ Back to the top</sub></p></a>
 
