@@ -1,6 +1,5 @@
 <div id="bg" align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/167252390-f2858d87-0d0c-486d-a5c9-b91a30601893.svg"></div>
-<br>
-<p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
+<div align="center"><sub><i>A basic to advanced ordering for data science students and professionals.</i></sub></div>
 <br>
 <div id="badges" align="center"><sup>
    <a href="https://www.instagram.com/mark_sales.it/">
