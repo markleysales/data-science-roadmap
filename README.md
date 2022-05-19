@@ -34,7 +34,8 @@
 <!-- Header -->
 
 
-<p>The "Roadmap to Data Science" is an ordering (with comments, summaries and analyses) from basic to advanced for students and professionals. Our proposal is to help you as much as possible on this data and technology journey.</p>
+<p>The "Roadmap to Data Science" is an ordering (with comments, summaries and analyses) from basic to advanced for students and professionals. This "interactive list" is designed to offer you the best possible path to excellence within the area of ​​technology, specifically, data.<br>
+Here you will find the best "chronology" to follow on your study journey.</p>
 
 >NOTES:<br>
 >`This repository is free for the community` to change, my initial idea was to make a trail according to my own studies. Therefore, nothing prevents me from doing the same and, thus, improving what I created.<br>
