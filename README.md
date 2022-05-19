@@ -30,7 +30,7 @@
    &
    <a href="https://github.com/Noctho01">Vinicius Rodrigues</a>
 </b></sup></p>
-<sup><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg"></sup> 
+<sub><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg"></sub> 
 <br><br>
 <!-- Header -->
 
