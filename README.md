@@ -105,7 +105,7 @@ Here you will find the best "chronology" to follow on your study journey.</p>
       In addition, data scientists must have strategic and analytical thinking to extract data and transform it into relevant information for the companies in which         they work.
    </p>
 </div>
- <a href="#top"><p align="right"><sub>◄ Back to the top</sub></p></a>
+ <a href="#top"><p align="right"><sub>← Back to the top</sub></p></a>
 
 
 <br>
@@ -135,5 +135,5 @@ Here you will find the best "chronology" to follow on your study journey.</p>
    <br>
    <h3>Variables</h3>
 </div>
-<a href="#top"><p align="right"><sub>◄ Back to the top</sub></p></a>
+<a href="#top"><p align="right"><sub>← Back to the top</sub></p></a>
 
