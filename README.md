@@ -129,7 +129,6 @@ Here you will find the best "chronology" to follow on your study journey.</p>
       <br><br>
       <b>Visualization/Graphics</b> – Python isn't as good as R (yet), but we'll see more and more APIs (eg Plotly) and data visualization libraries that make R's              partial advantage negligible compared to Python. You can do really cool stuff with Python.
    </p>
-   <br>
    <h3>Variables</h3>
 </div>
 <a href="#top"><p align="right"><sub>← Back to the top</sub></p></a>
