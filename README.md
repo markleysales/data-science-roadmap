@@ -10,6 +10,7 @@
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2Fdata-science-roadmap%2F&count_bg=%23003140&title_bg=%23003140&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </sub></div>
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
+<br>
 <div align="center">
    <img align="center" width="32%px" src="https://user-images.githubusercontent.com/95272518/168687229-8a19bf9f-3c9b-40b0-b424-a87e50de2d54.svg">
    <br>
