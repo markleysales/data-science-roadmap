@@ -13,7 +13,7 @@
 <p align="center"><i>A basic to advanced ordering for data science students and professionals.</i></p>
 <br>
 <div align="center">
-   <img align="center" width="32%px" src="https://user-images.githubusercontent.com/95272518/168687229-8a19bf9f-3c9b-40b0-b424-a87e50de2d54.svg">
+   <img align="center" width="26%px" src="https://github.com/markleysales/data-science-roadmap/assets/95272518/b76a89c0-d5d2-48ae-9c34-24216124a84f">
    <br>
    <a href="https://github.com/markleysales"><b>Live the future
    <br>
